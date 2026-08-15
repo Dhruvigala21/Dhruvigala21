@@ -51,7 +51,7 @@ Turning trash into treasure! An **intelligent platform** that **identifies waste
 
 ## Let's Chat 🤝
 
-Got an interesting data problem? Want to talk shop about dashboards? Just want to rant about bad Excel files? **I'm all ears!**
+Got an interesting data problem? Want to talk about dashboards? Just want to rant about bad Excel files? **I'm all ears!**
 
 - 💬 **Always up for collaborations** and cool data projects
 - 📚 **Love learning from others** (and teaching too!)
