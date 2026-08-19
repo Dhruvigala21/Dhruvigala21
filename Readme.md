@@ -8,7 +8,7 @@ I'm a **Data Analyst** who turns messy data into magical insights. **Coffee enth
 - 🐍 **Writing Python scripts** to automate the boring stuff
 - 🔍 **Playing detective with datasets** (finding hidden patterns is addictive!)
 - 💡 **Turning "I have data"** into **"WOW, that's interesting!"**
-- 📈 **Bending SQL to my will** (it usually cooperates)
+- 📈 **Bending SQL to my will** 
 
 ## My Toolkit 🛠️
 
@@ -44,9 +44,7 @@ Turning trash into treasure! An **intelligent platform** that **identifies waste
 
 ## Currently Exploring 🚀
 
-- 🤖 **Machine learning models** that actually make sense
 - 📊 **Next-level data visualization** (the kind that makes people go "wow")
-- 🔗 **Building automation workflows** (let robots do the repetitive stuff)
 - 🌍 **Open-source contributions** (giving back to the community)
 
 ## Let's Chat 🤝
